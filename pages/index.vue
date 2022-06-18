@@ -11,8 +11,6 @@
       <About />
       <Divider />
       <Projects />
-      <!-- <Divider /> -->
-      <!-- <Donations /> -->
       <Divider />
       <Contact />
       <Divider />
