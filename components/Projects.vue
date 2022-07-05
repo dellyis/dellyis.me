@@ -48,7 +48,7 @@ export default {
           icon: 'em.png',
           name: 'Ecology Month',
           // link: '',
-          year: 'July 2022',
+          year: 'Aug 2022',
           description:
             'Coming Soon',
           color: 'bg-green-500',
