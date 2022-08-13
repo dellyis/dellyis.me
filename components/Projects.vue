@@ -45,15 +45,6 @@ export default {
       showAllProjects: false,
       projects: [
         {
-          icon: 'em.png',
-          name: 'Ecology Month',
-          // link: '',
-          year: 'Aug 2022',
-          description:
-            'Coming Soon',
-          color: 'bg-green-500',
-        },
-        {
           icon: 'rcb.png',
           name: 'Roblox Codes Bot',
           // link: '',
