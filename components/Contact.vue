@@ -11,7 +11,7 @@
         target="_blank"
         class="bg-indigo-500 bg-opacity-30 flex-1 md:mr-4 px-8 mt-6 py-4 rounded-md hover:scale-105 transform ease-in-out duration-300"
       >
-        <font-awesome-icon :icon="['fab', 'discord']" /> @Dellyis#6984
+        <font-awesome-icon :icon="['fab', 'discord']" /> @dellyis
       </a>
       <a
         href="https://t.me/dellyis"
@@ -22,13 +22,13 @@
       </a>
     </div>
     <div class="flex flex-col md:flex-row justify-center">
-      <a
+      <!-- <a
         href="mailto:hi@dellyis.me"
         target="_blank"
         class="bg-yellow-500 bg-opacity-30 flex-1 md:mr-4 px-8 mt-6 py-4 rounded-md hover:scale-105 transform ease-in-out duration-300"
       >
         <font-awesome-icon :icon="['fa', 'envelope']" /> hi@dellyis.me
-      </a>
+      </a> --> 
       <a
         href="https://github.com/Dellyis"
         target="_blank"
