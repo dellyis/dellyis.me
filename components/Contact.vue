@@ -32,7 +32,7 @@
       <a
         href="https://github.com/Dellyis"
         target="_blank"
-        class="bg-purple-500 bg-opacity-30 flex-1 md:ml-4 mt-6 px-8 py-4 rounded-md hover:scale-105 transform ease-in-out duration-300"
+        class="bg-purple-500 bg-opacity-30 flex-1 mt-6 px-8 py-4 rounded-md hover:scale-105 transform ease-in-out duration-300"
       >
         <font-awesome-icon :icon="['fab', 'github']" /> Dellyis
       </a>
